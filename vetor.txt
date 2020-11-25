@@ -1,0 +1,58 @@
+static 
+{
+
+int n = int.Parse(Console.ReadLine());
+// sintaxe do vetor, lembra ?
+// tipo[] nomeVetor = new tipo[tamanho]
+   Produto[] prod new Produto[n];
+
+for ( int i = 0; i < n; i++)
+
+{
+
+// nome de uma variável temporária
+string nome = Console.ReadLine();
+
+// preco é uma viariável temporária
+double preco = double. Parse(Console.ReadLin(),
+CultureInfo.InvariantCulture):
+
+prod[i] = new Produto(nome, preco);
+ 
+}
+   double soma = 0.0;
+
+
+for(int i = 0; i < n; i++ )
+
+{ 
+   soma += prod[i].Preco;
+
+      }
+
+   double media = soma /n;
+Console.WriteLine(" A Média dos preços é R$ " + media);
+}
+
+  }
+
+}
+----------------------------------------------------------
+namespace VetorProduto
+{
+
+class Produto 
+{
+  public int Nome { get; set; }
+ public double Preco { get; set; }
+
+
+// Construtor 
+public Produto (string nome, double preco)
+{
+
+       Nome = nome;
+       Preco = preço;   
+   }
+  }
+}

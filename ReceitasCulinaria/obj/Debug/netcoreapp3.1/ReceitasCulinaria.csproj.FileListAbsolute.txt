@@ -1,0 +1,6 @@
+C:\Users\Ketlyn Loja\source\repos\ReceitasCulinaria\ReceitasCulinaria\obj\Debug\netcoreapp3.1\ReceitasCulinaria.csprojAssemblyReference.cache
+C:\Users\Ketlyn Loja\source\repos\ReceitasCulinaria\ReceitasCulinaria\obj\Debug\netcoreapp3.1\ReceitasCulinaria.Form1.resources
+C:\Users\Ketlyn Loja\source\repos\ReceitasCulinaria\ReceitasCulinaria\obj\Debug\netcoreapp3.1\ReceitasCulinaria.csproj.GenerateResource.cache
+C:\Users\Ketlyn Loja\source\repos\ReceitasCulinaria\ReceitasCulinaria\obj\Debug\netcoreapp3.1\ReceitasCulinaria.AssemblyInfoInputs.cache
+C:\Users\Ketlyn Loja\source\repos\ReceitasCulinaria\ReceitasCulinaria\obj\Debug\netcoreapp3.1\ReceitasCulinaria.AssemblyInfo.cs
+C:\Users\Ketlyn Loja\source\repos\ReceitasCulinaria\ReceitasCulinaria\obj\Debug\netcoreapp3.1\ReceitasCulinaria.csproj.CoreCompileInputs.cache

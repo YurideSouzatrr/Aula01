@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ketlyn Loja\\Documents\\GitHub\\Aula01\\ConsoleApp5\\AtividadeQuartos\\ConsoleApp5.csproj": {}
+    "C:\\Users\\Ketlyn Loja\\source\\repos\\ReceitasCulinaria\\ReceitasCulinaria\\ReceitasCulinaria.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ketlyn Loja\\Documents\\GitHub\\Aula01\\ConsoleApp5\\AtividadeQuartos\\ConsoleApp5.csproj": {
+    "C:\\Users\\Ketlyn Loja\\source\\repos\\ReceitasCulinaria\\ReceitasCulinaria\\ReceitasCulinaria.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ketlyn Loja\\Documents\\GitHub\\Aula01\\ConsoleApp5\\AtividadeQuartos\\ConsoleApp5.csproj",
-        "projectName": "ConsoleApp5",
-        "projectPath": "C:\\Users\\Ketlyn Loja\\Documents\\GitHub\\Aula01\\ConsoleApp5\\AtividadeQuartos\\ConsoleApp5.csproj",
+        "projectUniqueName": "C:\\Users\\Ketlyn Loja\\source\\repos\\ReceitasCulinaria\\ReceitasCulinaria\\ReceitasCulinaria.csproj",
+        "projectName": "ReceitasCulinaria",
+        "projectPath": "C:\\Users\\Ketlyn Loja\\source\\repos\\ReceitasCulinaria\\ReceitasCulinaria\\ReceitasCulinaria.csproj",
         "packagesPath": "C:\\Users\\Ketlyn Loja\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ketlyn Loja\\Documents\\GitHub\\Aula01\\ConsoleApp5\\AtividadeQuartos\\obj\\",
+        "outputPath": "C:\\Users\\Ketlyn Loja\\source\\repos\\ReceitasCulinaria\\ReceitasCulinaria\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ketlyn Loja\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -50,6 +50,9 @@
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"

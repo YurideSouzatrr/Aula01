@@ -1,0 +1,13 @@
+C:\Users\Lena\source\repos\ATV8\ATV8\obj\Debug\netcoreapp3.1\ATV8.csprojAssemblyReference.cache
+C:\Users\Lena\source\repos\ATV8\ATV8\obj\Debug\netcoreapp3.1\ATV8.AssemblyInfoInputs.cache
+C:\Users\Lena\source\repos\ATV8\ATV8\obj\Debug\netcoreapp3.1\ATV8.AssemblyInfo.cs
+C:\Users\Lena\source\repos\ATV8\ATV8\obj\Debug\netcoreapp3.1\ATV8.csproj.CoreCompileInputs.cache
+C:\Users\Lena\source\repos\ATV8\ATV8\bin\Debug\netcoreapp3.1\ATV8.exe
+C:\Users\Lena\source\repos\ATV8\ATV8\bin\Debug\netcoreapp3.1\ATV8.deps.json
+C:\Users\Lena\source\repos\ATV8\ATV8\bin\Debug\netcoreapp3.1\ATV8.runtimeconfig.json
+C:\Users\Lena\source\repos\ATV8\ATV8\bin\Debug\netcoreapp3.1\ATV8.runtimeconfig.dev.json
+C:\Users\Lena\source\repos\ATV8\ATV8\bin\Debug\netcoreapp3.1\ATV8.dll
+C:\Users\Lena\source\repos\ATV8\ATV8\bin\Debug\netcoreapp3.1\ATV8.pdb
+C:\Users\Lena\source\repos\ATV8\ATV8\obj\Debug\netcoreapp3.1\ATV8.dll
+C:\Users\Lena\source\repos\ATV8\ATV8\obj\Debug\netcoreapp3.1\ATV8.pdb
+C:\Users\Lena\source\repos\ATV8\ATV8\obj\Debug\netcoreapp3.1\ATV8.genruntimeconfig.cache

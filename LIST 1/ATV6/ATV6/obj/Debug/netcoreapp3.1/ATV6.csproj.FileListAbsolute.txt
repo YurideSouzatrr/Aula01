@@ -1,0 +1,13 @@
+C:\Users\Lena\source\repos\ATV6\ATV6\obj\Debug\netcoreapp3.1\ATV6.csprojAssemblyReference.cache
+C:\Users\Lena\source\repos\ATV6\ATV6\obj\Debug\netcoreapp3.1\ATV6.AssemblyInfoInputs.cache
+C:\Users\Lena\source\repos\ATV6\ATV6\obj\Debug\netcoreapp3.1\ATV6.AssemblyInfo.cs
+C:\Users\Lena\source\repos\ATV6\ATV6\obj\Debug\netcoreapp3.1\ATV6.csproj.CoreCompileInputs.cache
+C:\Users\Lena\source\repos\ATV6\ATV6\bin\Debug\netcoreapp3.1\ATV6.exe
+C:\Users\Lena\source\repos\ATV6\ATV6\bin\Debug\netcoreapp3.1\ATV6.deps.json
+C:\Users\Lena\source\repos\ATV6\ATV6\bin\Debug\netcoreapp3.1\ATV6.runtimeconfig.json
+C:\Users\Lena\source\repos\ATV6\ATV6\bin\Debug\netcoreapp3.1\ATV6.runtimeconfig.dev.json
+C:\Users\Lena\source\repos\ATV6\ATV6\bin\Debug\netcoreapp3.1\ATV6.dll
+C:\Users\Lena\source\repos\ATV6\ATV6\bin\Debug\netcoreapp3.1\ATV6.pdb
+C:\Users\Lena\source\repos\ATV6\ATV6\obj\Debug\netcoreapp3.1\ATV6.dll
+C:\Users\Lena\source\repos\ATV6\ATV6\obj\Debug\netcoreapp3.1\ATV6.pdb
+C:\Users\Lena\source\repos\ATV6\ATV6\obj\Debug\netcoreapp3.1\ATV6.genruntimeconfig.cache

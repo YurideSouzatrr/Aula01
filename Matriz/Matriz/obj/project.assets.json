@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lena\\source\\repos\\Matriz\\Matriz\\Matriz.csproj",
+      "projectUniqueName": "C:\\Users\\Lena\\Documents\\GitHub\\Aula01\\Matriz\\Matriz\\Matriz.csproj",
       "projectName": "Matriz",
-      "projectPath": "C:\\Users\\Lena\\source\\repos\\Matriz\\Matriz\\Matriz.csproj",
+      "projectPath": "C:\\Users\\Lena\\Documents\\GitHub\\Aula01\\Matriz\\Matriz\\Matriz.csproj",
       "packagesPath": "C:\\Users\\Lena\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lena\\source\\repos\\Matriz\\Matriz\\obj\\",
+      "outputPath": "C:\\Users\\Lena\\Documents\\GitHub\\Aula01\\Matriz\\Matriz\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lena\\AppData\\Roaming\\NuGet\\NuGet.Config",

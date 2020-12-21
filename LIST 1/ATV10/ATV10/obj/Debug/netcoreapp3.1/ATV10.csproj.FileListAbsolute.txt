@@ -1,0 +1,13 @@
+C:\Users\Lena\source\repos\ATV10\ATV10\bin\Debug\netcoreapp3.1\ATV10.exe
+C:\Users\Lena\source\repos\ATV10\ATV10\bin\Debug\netcoreapp3.1\ATV10.deps.json
+C:\Users\Lena\source\repos\ATV10\ATV10\bin\Debug\netcoreapp3.1\ATV10.runtimeconfig.json
+C:\Users\Lena\source\repos\ATV10\ATV10\bin\Debug\netcoreapp3.1\ATV10.runtimeconfig.dev.json
+C:\Users\Lena\source\repos\ATV10\ATV10\bin\Debug\netcoreapp3.1\ATV10.dll
+C:\Users\Lena\source\repos\ATV10\ATV10\bin\Debug\netcoreapp3.1\ATV10.pdb
+C:\Users\Lena\source\repos\ATV10\ATV10\obj\Debug\netcoreapp3.1\ATV10.csprojAssemblyReference.cache
+C:\Users\Lena\source\repos\ATV10\ATV10\obj\Debug\netcoreapp3.1\ATV10.AssemblyInfoInputs.cache
+C:\Users\Lena\source\repos\ATV10\ATV10\obj\Debug\netcoreapp3.1\ATV10.AssemblyInfo.cs
+C:\Users\Lena\source\repos\ATV10\ATV10\obj\Debug\netcoreapp3.1\ATV10.csproj.CoreCompileInputs.cache
+C:\Users\Lena\source\repos\ATV10\ATV10\obj\Debug\netcoreapp3.1\ATV10.dll
+C:\Users\Lena\source\repos\ATV10\ATV10\obj\Debug\netcoreapp3.1\ATV10.pdb
+C:\Users\Lena\source\repos\ATV10\ATV10\obj\Debug\netcoreapp3.1\ATV10.genruntimeconfig.cache

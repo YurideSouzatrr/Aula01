@@ -1,0 +1,13 @@
+C:\Users\Lena\source\repos\AT2\AT2\obj\Debug\netcoreapp3.1\AT2.csprojAssemblyReference.cache
+C:\Users\Lena\source\repos\AT2\AT2\obj\Debug\netcoreapp3.1\AT2.AssemblyInfoInputs.cache
+C:\Users\Lena\source\repos\AT2\AT2\obj\Debug\netcoreapp3.1\AT2.AssemblyInfo.cs
+C:\Users\Lena\source\repos\AT2\AT2\obj\Debug\netcoreapp3.1\AT2.csproj.CoreCompileInputs.cache
+C:\Users\Lena\source\repos\AT2\AT2\bin\Debug\netcoreapp3.1\AT2.exe
+C:\Users\Lena\source\repos\AT2\AT2\bin\Debug\netcoreapp3.1\AT2.deps.json
+C:\Users\Lena\source\repos\AT2\AT2\bin\Debug\netcoreapp3.1\AT2.runtimeconfig.json
+C:\Users\Lena\source\repos\AT2\AT2\bin\Debug\netcoreapp3.1\AT2.runtimeconfig.dev.json
+C:\Users\Lena\source\repos\AT2\AT2\bin\Debug\netcoreapp3.1\AT2.dll
+C:\Users\Lena\source\repos\AT2\AT2\bin\Debug\netcoreapp3.1\AT2.pdb
+C:\Users\Lena\source\repos\AT2\AT2\obj\Debug\netcoreapp3.1\AT2.dll
+C:\Users\Lena\source\repos\AT2\AT2\obj\Debug\netcoreapp3.1\AT2.pdb
+C:\Users\Lena\source\repos\AT2\AT2\obj\Debug\netcoreapp3.1\AT2.genruntimeconfig.cache

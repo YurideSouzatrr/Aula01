@@ -1,0 +1,3 @@
+C:\Users\Lena\source\repos\ATV4\ATV4\obj\Debug\netcoreapp3.1\ATV4.AssemblyInfoInputs.cache
+C:\Users\Lena\source\repos\ATV4\ATV4\obj\Debug\netcoreapp3.1\ATV4.AssemblyInfo.cs
+C:\Users\Lena\source\repos\ATV4\ATV4\obj\Debug\netcoreapp3.1\ATV4.csproj.CoreCompileInputs.cache
